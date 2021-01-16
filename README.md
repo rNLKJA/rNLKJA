@@ -26,13 +26,13 @@ I'm interesting in data science and passionating in data. What I like to do now,
 #### About Delete Repositories
 Due to I want to make my github look nice and neat. I deleted most repos due to I used them as a cloud drive purpose.
 For those who still want to access the data of those repos, here are the links about my Notion notes, you could find most of them at there.
-(But I'm not sure they are fully record (⊙﹏⊙) so I hopefully can help you guys. 
+(But I'm not sure they are fully recorded (⊙﹏⊙) so I hopefully these limit resources can help you guys. 
 Also, I will try and upload everything into my google drive. After that I will post the link here.
 
 #### Subjects of My Undergraduate Study
-| Year & Semester  | Subject Code | Name & Google Drive Link             | Notion URL | Completion |
+| Year & Semester  | Subject Code | Course Name & Google Drive Link      | Notion URL | Completion |
 | :--------------: | :----------: | :----------------------------------- | :--------: | :--------: |
-| 2019 Semester 2  | COMP10001    |Foundation of Computing               | [((*・∀・）ゞ→→](https://www.notion.so/huangsunchuangyu/COMP10001-Foundation-of-Computing-e88799503a28433bb18b5978243e477f)                      |☑|
+| 2019 Semester 2  | COMP10001    |[Foundation of Computing](https://drive.google.com/drive/folders/1mF30NhNMbW9DwAbOckcnlFsucHQtDI7R?usp=sharing)               | [((*・∀・）ゞ→→](https://www.notion.so/huangsunchuangyu/COMP10001-Foundation-of-Computing-e88799503a28433bb18b5978243e477f)|☑|
 | 2019 Semester 2  | MAST10006    |Calculus 2                            |[(๑•̀ㅂ•́)و✧](https://www.notion.so/huangsunchuangyu/MAST10006-Calculus-2-81b9414a33824e75af5b2ffebbc0d322)                      |☑|
 | 2019 Semester 2  | MAST10010    |Data Analysis 1                       |[ヾ(≧▽≦*)o](https://www.notion.so/huangsunchuangyu/MAST10010-Data-Analysis-1-4a8589bda27241c088fa0088967f2595)                      |☑|
 | 2020 Summer Term | MAST10007    |Linear Algebra                        |[o(*≧▽≦)ツ](https://www.notion.so/huangsunchuangyu/MAST10007-Linear-Algebra-11e52878b3294ab7b49823165b26bae1)                      |☑|
@@ -40,7 +40,7 @@ Also, I will try and upload everything into my google drive. After that I will p
 | 2020 Semester 1  | INFO20003    |Database System                       |[（゜▽＾*）](https://www.notion.so/huangsunchuangyu/INFO20003-Database-System-b4e3e12f19bf419b8bd459b358573ef6)                      |☑|
 | 2020 Semester 1  | MAST20004    |Probability                           |[(*^▽^*)](https://www.notion.so/huangsunchuangyu/MAST20004-Probability-33840b821fa544ec992b8d73e3174b89)                      |☑|
 | 2020 Semester 1  | MKGT10001    |Principal of Marketing                |[(｡･∀･)ﾉﾞ](https://www.notion.so/huangsunchuangyu/MKGT10001-Principal-of-Marketing-47224deedf8b44bbb3ee1aa0005352cc)                      |☑|
-| 2020 Winter Term | MGMT20011    |Business Negotiation                  |[╰(￣▽￣)╭](https://www.notion.so/huangsunchuangyu/MGMT20011-Business-Negotiation-45aaf7cc902f49868fb87ed74db5946a)                      |☑|
+| 2020 Winter\ \   | MGMT20011    |Business Negotiation                  |[╰(￣▽￣)╭](https://www.notion.so/huangsunchuangyu/MGMT20011-Business-Negotiation-45aaf7cc902f49868fb87ed74db5946a)                      |☑|
 | 2020 Semester 2  | COMP20003    |Algorithms and Data Structure.        |[︿(￣︶￣)︿](https://www.notion.so/huangsunchuangyu/COMP20003-Algorithms-and-Data-Structure-069105d9c1fa4e5aaff31cb0c6612e68)            |☑|
 | 2020 Semester 2  | COMP20008    |Element of Data Processing            |[φ(゜▽゜*)♪](https://www.notion.so/huangsunchuangyu/COMP20008-Element-of-Data-Processing-6ced9668aa9c4cc5b18f1f75b43079f2)                      |☑|
 | 2020 Semester 2  | MAST20005    |Statistic                             |[ヾ(≧∇≦*)ゝ](https://www.notion.so/huangsunchuangyu/MAST20005-Statistic-3b5b2f93da274fdeb2d9dc6038822d61)                      |☑|
