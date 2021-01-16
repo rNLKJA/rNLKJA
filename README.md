@@ -26,10 +26,10 @@ What I like to do now：I want to use data to improve people's lives improve the
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chuangyu_hscy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/huangsunchuangyu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sunchuangyu.huang)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/chuangyu_hscy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://chuangyu-hscy.com)  [<img src='https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png' alt='notion' height='40'>](https://www.notion.so/huangsunchuangyu/WorkSpace-Navigation-Panel-b7ca1c2d7e12449fbd05daa19eda66eb)
 ---
 #### About Delete Repositories
-Due to I want to make my github look nice and neat. I deleted most repos due to I used them as a cloud drive purpose.
+Due to I want to make my github look nice and neat. I deleted most repos due to I no longer need to use them as a cloud drive.
 For those who still want to access the data of those repos, here are the links about my Notion notes, you could find most of them at there.
-(But I'm not sure they are fully recorded (⊙﹏⊙) so I hopefully these limit resources can help you guys. 
-Also, I will try and upload everything into my google drive. After that I will post the link here.
+(But I'm not sure they are fully recorded (⊙﹏⊙） so I hopefully these limit resources can help you guys...)
+Also, I will try and upload everything into my google drive, so please check the link right down below :)
 
 #### Subjects of My Undergraduate Study
 | Year & Semester  | Subject Code | Course Name & Google Drive Link      | Notion URL | Completion |
