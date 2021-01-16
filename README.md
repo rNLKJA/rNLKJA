@@ -30,7 +30,7 @@ For those who still want to access the data of those repos, here are the links a
 Also, I will try and upload everything into my google drive. After that I will post the link here.
 
 #### Subjects of My Undergraduate Study
-| Year & Semester  | Subject Code | Name                                 | Notion URL | Completion |
+| Year & Semester  | Subject Code | Name & Google Drive Link             | Notion URL | Completion |
 | :--------------: | :----------: | :----------------------------------- | :--------: | :--------: |
 | 2019 Semester 2  | COMP10001    |Foundation of Computing               | [((*・∀・）ゞ→→](https://www.notion.so/huangsunchuangyu/COMP10001-Foundation-of-Computing-e88799503a28433bb18b5978243e477f)                      |☑|
 | 2019 Semester 2  | MAST10006    |Calculus 2                            |[(๑•̀ㅂ•́)و✧](https://www.notion.so/huangsunchuangyu/MAST10006-Calculus-2-81b9414a33824e75af5b2ffebbc0d322)                      |☑|
