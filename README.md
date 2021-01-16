@@ -18,6 +18,7 @@ I'm interesting in data science and passionating in data. What I like to do now,
 - ✒️ I’m currently learning Front-End Engineer Basic 
 - 🤔 I’m looking for Data Science Internship with any position 
 - 😈 Also I want to master the skills of the Ethical Hacking
+- (´。＿。｀) Of course there is also the lazy APA reference generator that I haven't updated in a long time
 
 #### Find Me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chuangyu_hscy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/huangsunchuangyu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sunchuangyu.huang)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/chuangyu_hscy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://chuangyu-hscy.com)  
