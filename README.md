@@ -1,8 +1,10 @@
 ### Hello there 👋, This is Rin
 #### I am a Data Science student currently study in the University of Melbourne.
-I'm interesting in data science and passionating in data. What I like to do now, I
+I'm interesting in data science and passionating in data. What I like to do now, I want to use data to improve people's lives, improve the quality of life and bring higher benefits.
 
-Skills: Python / R / C / HTML
+## Skills and Experience:
+* 🔢　Basic Data Analysis Skills
+* 💻　Language: Python / R / C / HTML
 
 - 🔭 I’m currently working on undergraduate Data Science Study 
 - 🌱 I’m currently learning Front-End Engineer Basic 
