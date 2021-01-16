@@ -33,7 +33,7 @@ Also, I will try and upload everything into my google drive. After that I will p
 | Year & Semester  | Subject Code | Course Name & Google Drive Link      | Notion URL | Completion |
 | :--------------: | :----------: | :----------------------------------- | :--------: | :--------: |
 | 2019 Semester 2  | COMP10001    |[Foundation of Computing](https://drive.google.com/drive/folders/1mF30NhNMbW9DwAbOckcnlFsucHQtDI7R?usp=sharing)               | [((*・∀・）ゞ→→](https://www.notion.so/huangsunchuangyu/COMP10001-Foundation-of-Computing-e88799503a28433bb18b5978243e477f)|☑|
-| 2019 Semester 2  | MAST10006    |Calculus 2                            |[(๑•̀ㅂ•́)و✧](https://www.notion.so/huangsunchuangyu/MAST10006-Calculus-2-81b9414a33824e75af5b2ffebbc0d322)                      |☑|
+| 2019 Semester 2  | MAST10006    |[Calculus 2](https://drive.google.com/drive/folders/1v9RXlkYBpcvNkigBbUaoklWJ6yoRy6NZ?usp=sharing)|[(๑•̀ㅂ•́)و✧](https://www.notion.so/huangsunchuangyu/MAST10006-Calculus-2-81b9414a33824e75af5b2ffebbc0d322)                      |☑|
 | 2019 Semester 2  | MAST10010    |Data Analysis 1                       |[ヾ(≧▽≦*)o](https://www.notion.so/huangsunchuangyu/MAST10010-Data-Analysis-1-4a8589bda27241c088fa0088967f2595)                      |☑|
 | 2020 Summer Term | MAST10007    |Linear Algebra                        |[o(*≧▽≦)ツ](https://www.notion.so/huangsunchuangyu/MAST10007-Linear-Algebra-11e52878b3294ab7b49823165b26bae1)                      |☑|
 | 2020 Semester 1  | COMP10002    |[Foundation of Algorithm](https://drive.google.com/drive/folders/1yxqg0LzxwRFuYODdk6bZAVdUchC8Yhhj?usp=sharing)               |[<(￣︶￣)>](https://www.notion.so/huangsunchuangyu/COMP10002-Foundation-of-Algorithm-e24672b2d24f428ab917c54a8717f513)|☑|
