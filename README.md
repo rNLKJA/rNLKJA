@@ -9,6 +9,7 @@ What I like to do now：I want to use data to improve people's lives improve the
   - Basic Probability and Statistic
   - Operational Research Skills
   - Basic Data Analysis
+  
 🛰️　Computiong Language: 
   - Python
   - R 
