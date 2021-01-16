@@ -16,7 +16,7 @@ I'm interesting in data science and passionating in data. What I like to do now,
 ## Do and To-Do
 - 🏫 I’m currently working on undergraduate Data Science Study 
 - ✒️ I’m currently learning Front-End Engineer Basic 
-- 🤔 I’m looking for help with Data Science Internship 
+- 🤔 I’m looking for Data Science Internship with any position 
 - 😈 Also I want to master the skills of the Ethical Hacking
 
 #### Find Me
