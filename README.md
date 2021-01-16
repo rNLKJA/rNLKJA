@@ -30,6 +30,7 @@ Due to I want to make my github look nice and neat. I deleted most repos due to 
 For those who still want to access the data of those repos, here are the links about my Notion notes, you could find most of them at there.
 (But I'm not sure they are fully recorded (⊙﹏⊙） so I hopefully these limit resources can help you guys...)
 Also, I will try and upload everything into my google drive, so please check the link right down below :)
+For those who wants to access these data from China, I will also upload the data in BaiduCloud later.
 
 #### Subjects of My Undergraduate Study
 | Year & Semester  | Subject Code | Course Name & Google Drive Link      | Notion URL | Completion |
