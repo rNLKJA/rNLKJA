@@ -5,11 +5,11 @@ What I like to do now：I want to use data to improve people's lives improve the
                 and bring higher benefits in any industrial aspect ♬ヽ(*・ω・)ﾉ
 
 ## Skills and Experience:
-* 💠　Data Science Skills
+💠　Data Science Skills
   - Basic Probability and Statistic
   - Operational Research Skills
   - Basic Data Analysis
-* 🛰️　Computiong Language: 
+🛰️　Computiong Language: 
   - Python
   - R 
   - C
