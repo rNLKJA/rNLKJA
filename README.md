@@ -1,6 +1,6 @@
 ### Hello there 👋, This is Rin Huang (ฅ'ω'ฅ)
 #### I am a Data Science student currently study in the University of Melbourne, from China 🇨🇳
-I'm interesting in data science and passionating in data. What I like to do now, I want to use data to improve people's lives, improve the quality of life and bring higher benefits ♬ヽ(*・ω・)ﾉ
+I'm interesting in data science and passionating in data. What I like to do now, I want to use data to improve people's lives, improve the quality of life and bring higher benefits in any industrial aspect ♬ヽ(*・ω・)ﾉ
 
 ## Skills and Experience:
 * 💠　Basic Data Analysis Skills
