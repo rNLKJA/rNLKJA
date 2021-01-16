@@ -40,7 +40,7 @@ Also, I will try and upload everything into my google drive. After that I will p
 | 2020 Semester 1  | INFO20003    |Database System                       |[（゜▽＾*）](https://www.notion.so/huangsunchuangyu/INFO20003-Database-System-b4e3e12f19bf419b8bd459b358573ef6)                      |☑|
 | 2020 Semester 1  | MAST20004    |Probability                           |[(*^▽^*)](https://www.notion.so/huangsunchuangyu/MAST20004-Probability-33840b821fa544ec992b8d73e3174b89)                      |☑|
 | 2020 Semester 1  | MKGT10001    |Principal of Marketing                |[(｡･∀･)ﾉﾞ](https://www.notion.so/huangsunchuangyu/MKGT10001-Principal-of-Marketing-47224deedf8b44bbb3ee1aa0005352cc)                      |☑|
-| 2020 Winter\ \   | MGMT20011    |Business Negotiation                  |[╰(￣▽￣)╭](https://www.notion.so/huangsunchuangyu/MGMT20011-Business-Negotiation-45aaf7cc902f49868fb87ed74db5946a)                      |☑|
+| 2020 Winter Term | MGMT20011    |Business Negotiation                  |[╰(￣▽￣)╭](https://www.notion.so/huangsunchuangyu/MGMT20011-Business-Negotiation-45aaf7cc902f49868fb87ed74db5946a)                      |☑|
 | 2020 Semester 2  | COMP20003    |Algorithms and Data Structure.        |[︿(￣︶￣)︿](https://www.notion.so/huangsunchuangyu/COMP20003-Algorithms-and-Data-Structure-069105d9c1fa4e5aaff31cb0c6612e68)            |☑|
 | 2020 Semester 2  | COMP20008    |Element of Data Processing            |[φ(゜▽゜*)♪](https://www.notion.so/huangsunchuangyu/COMP20008-Element-of-Data-Processing-6ced9668aa9c4cc5b18f1f75b43079f2)                      |☑|
 | 2020 Semester 2  | MAST20005    |Statistic                             |[ヾ(≧∇≦*)ゝ](https://www.notion.so/huangsunchuangyu/MAST20005-Statistic-3b5b2f93da274fdeb2d9dc6038822d61)                      |☑|
