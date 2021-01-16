@@ -4,7 +4,7 @@ I'm interesting in data science and passionating in data.
 What I like to do now：I want to use data to improve people's lives improve the quality of life 
                 and bring higher benefits in any industrial aspect ♬ヽ(*・ω・)ﾉ
 
-## Skills and Experience:
+### Skills and Experience:
 💠　Data Science Skills
   - Basic Probability and Statistic
   - Operational Research Skills
@@ -16,7 +16,7 @@ What I like to do now：I want to use data to improve people's lives improve the
   - C
   - HTML
 
-## Do and To-Do
+### Do and To-Do
 - 🏫 I’m currently working on undergraduate Data Science Study 
 - ✒️ I’m currently learning Front-End Engineer Basic 
 - 🤔 I’m looking for Data Science Internship with any position 
