@@ -1,4 +1,4 @@
-### Hello there 👋 This is Rin Huang (ฅ'ω'ฅ)
+### Hello there (ฅ'ω'ฅ) This is Rin Huang
 #### I am a Data Science student currently study in the University of Melbourne 🇦🇺 from China 🇨🇳
 I'm interesting in data science and passionating in data. 
 What I like to do now：I want to use data to improve people's lives improve the quality of life 
