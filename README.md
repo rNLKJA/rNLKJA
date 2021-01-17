@@ -36,11 +36,9 @@ For those who still want to access the data of those repos, here are the links a
 Also, I will try and upload everything into my google drive, so please check the link right down below :)
 For those who wants to access these data from China, I will also upload the data in BaiduCloud later.
 
-<details>
-  <summary>
-    #### Subjects of My Undergraduate Study && Google Drive Links ↗[GO!]
-  </summary>
+<details><summary>Subjects of My Undergraduate Study && Google Drive Links ↗[GO!]</summary>
   <p>
+
   | Year & Semester  | Subject Code | Course Name & Google Drive Link      | Notion URL | Completion |
   | :--------------: | :----------: | :----------------------------------- | :--------: | :--------: |
   | 2019 Semester 2  | COMP10001    |[Foundation of Computing](https://drive.google.com/drive/folders/1mF30NhNMbW9DwAbOckcnlFsucHQtDI7R?usp=sharing)               | [((*・∀・）ゞ→→](https://www.notion.so/huangsunchuangyu/COMP10001-Foundation-of-Computing-e88799503a28433bb18b5978243e477f)|☑|
