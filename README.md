@@ -36,7 +36,7 @@ For those who still want to access the data of those repos, here are the links a
 Also, I will try and upload everything into my google drive, so please check the link right down below :)
 For those who wants to access these data from China, I will also upload the data in BaiduCloud later.
 
-<details><summary>Subjects of My Undergraduate Study && Google Drive Links ↗[GO!]</summary>
+<details><summary><b>Subjects of My Undergraduate Study && Google Drive Links ↗[GO!]</b></summary>
   <p>
 
   | Year & Semester  | Subject Code | Course Name & Google Drive Link      | Notion URL | Completion |
