@@ -36,7 +36,10 @@ For those who still want to access the data of those repos, here are the links a
 Also, I will try and upload everything into my google drive, so please check the link right down below :)
 For those who wants to access these data from China, I will also upload the data in BaiduCloud later.
 
-#### Subjects of My Undergraduate Study
+<details><summary>CLICK ME</summary>
+<p>
+
+#### Subjects of My Undergraduate Study && Google Drive Links ↗[GO!]
 | Year & Semester  | Subject Code | Course Name & Google Drive Link      | Notion URL | Completion |
 | :--------------: | :----------: | :----------------------------------- | :--------: | :--------: |
 | 2019 Semester 2  | COMP10001    |[Foundation of Computing](https://drive.google.com/drive/folders/1mF30NhNMbW9DwAbOckcnlFsucHQtDI7R?usp=sharing)               | [((*・∀・）ゞ→→](https://www.notion.so/huangsunchuangyu/COMP10001-Foundation-of-Computing-e88799503a28433bb18b5978243e477f)|☑|
@@ -63,3 +66,6 @@ For those who wants to access these data from China, I will also upload the data
 | 2021 Semester 2  | INFO30006    |Information Security and Privacy      |[(/≧▽≦)/](https://www.notion.so/huangsunchuangyu/INFO30006-Information-Security-and-Privacy-e5831e33876a48b59a226c78d16a1688)              |☐|
 | 2021 Semester 2  | MAST30027    |Modern Applied Statistics             |[ε(*´･∀･｀)зﾞ](https://www.notion.so/huangsunchuangyu/MAST30027-Modern-Applied-Statistics-cd653a43df39432fb788e42b9a878b3b)                      |☐|
 | 2021 Semester 2  | MAST30024    |Applied Data Science                  |[✧(≖ ◡ ≖✿)](https://www.notion.so/huangsunchuangyu/MAST30034-Applied-Data-Science-7564b89fda294af48eb9cbae1d48ea76)                      |☐|
+
+</p>
+</details>
