@@ -21,7 +21,7 @@ What I like to do now：I want to use data to improve people's lives improve the
 - ✒️ I’m currently learning Front-End Engineer Basic 
 - 🤔 I’m looking for Data Science Internship with any position 
 - 😈 Also I want to master the skills of the Ethical Hacking
-- (´。＿。｀) Of course there is also the lazy [APA](https://github.com/chuangyu-hscy/lazy-APA) reference generator that I haven't updated in a long time
+- (´。＿。｀) Of course there is also the [lazy APA](https://github.com/chuangyu-hscy/lazy-APA) reference generator that I haven't updated in a long time
 
 ### Find Me 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/chuangyu_hscy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/huangsunchuangyu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/sunchuangyu.huang)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/chuangyu_hscy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://chuangyu-hscy.com)  [<img src='https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png' alt='notion' height='30'>](https://www.notion.so/huangsunchuangyu/WorkSpace-Navigation-Panel-b7ca1c2d7e12449fbd05daa19eda66eb)
@@ -38,7 +38,8 @@ For those who wants to access these data from China, I will also upload the data
 
 <details><summary><b>Subjects of My Undergraduate Study && Google Drive Links ↗[GO!]</b></summary>
   <p>
-
+    
+  [Baidu Cloud Drive](https://pan.baidu.com/s/11UXv22YLxIPiivlf7Jtl7Q) 🔑 96n5
   | Year & Semester  | Subject Code | Course Name & Google Drive Link      | Notion URL | Completion |
   | :--------------: | :----------: | :----------------------------------- | :--------: | :--------: |
   | 2019 Semester 2  | COMP10001    |[Foundation of Computing](https://drive.google.com/drive/folders/1mF30NhNMbW9DwAbOckcnlFsucHQtDI7R?usp=sharing)               | [((*・∀・）ゞ→→](https://www.notion.so/huangsunchuangyu/COMP10001-Foundation-of-Computing-e88799503a28433bb18b5978243e477f)|☑|
