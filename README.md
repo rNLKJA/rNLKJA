@@ -30,7 +30,7 @@ What I like to do now：I want to use data to improve people's lives improve the
 ![Profile views](https://gpvc.arturio.dev/chuangyu-hscy)   
 ---
 #### About Deleted Repositories
-Due to I want to make my github look nice and neat. I deleted most repos due to I no longer need them as a cloud drive.
+Due to I want to make my github look nice and neat. I deleted most repos due to I no longer need them as the cloud drive.
 For those who still want to access the data of those repos, here are the links about my Notion notes, you could find most of them at there.
 (But I'm not sure they are fully recorded (⊙﹏⊙） so I hopefully these limit resources can help you guys...)
 Also, I will try and upload everything into my google drive, so please check the link right down below :)
