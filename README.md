@@ -38,7 +38,8 @@ For those who wants to access these data from China, I will also upload the data
 
 <details><summary><b>Subjects of My Undergraduate Study && Google Drive Links ↗[GO!]</b></summary>
   <p>
-    
+  
+  Some notion notes are empty due to I haven't complete the subject yet.
   [Baidu Cloud Drive](https://pan.baidu.com/s/11UXv22YLxIPiivlf7Jtl7Q) 🔑 96n5
   | Year & Semester  | Subject Code | Course Name & Google Drive Link      | Notion URL | Completion |
   | :--------------: | :----------: | :----------------------------------- | :--------: | :--------: |
