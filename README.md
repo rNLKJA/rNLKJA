@@ -34,13 +34,11 @@ Due to I want to make my github look nice and neat. I deleted most repos due to 
 For those who still want to access the data of those repos, here are the links about my Notion notes, you could find most of them at there.
 (But I'm not sure they are fully recorded (⊙﹏⊙） so I hopefully these limit resources can help you guys...)
 Also, I will try and upload everything into my google drive, so please check the link right down below :)
-For those who wants to access these data from China, I will also upload the data in BaiduCloud later.
 
 <details><summary><b>Subjects of My Undergraduate Study && Google Drive Links ↗[GO!]</b></summary>
   <p>
   
   Some notion notes are empty due to I haven't complete the subject yet.
-  [Baidu Cloud Drive](https://pan.baidu.com/s/11UXv22YLxIPiivlf7Jtl7Q) 🔑 96n5
   | Year & Semester  | Subject Code | Course Name & Google Drive Link      | Notion URL | Completion |
   | :--------------: | :----------: | :----------------------------------- | :--------: | :--------: |
   | 2019 Semester 2  | COMP10001    |[Foundation of Computing](https://drive.google.com/drive/folders/1mF30NhNMbW9DwAbOckcnlFsucHQtDI7R?usp=sharing)               | [((*・∀・）ゞ→→](https://www.notion.so/huangsunchuangyu/COMP10001-Foundation-of-Computing-e88799503a28433bb18b5978243e477f)|☑|
