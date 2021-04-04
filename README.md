@@ -21,7 +21,7 @@ What I like to do now：I want to use data to improve people's lives improve the
 
 ### Do and To-Do
 - 🏫 I’m currently working on undergraduate Data Science Study 
-- ✒️ I’m currently learning Front-End Engineer Basic 
+- ✒️ I’m currently learning Front-End + Back-End Engineering 
 - 🤔 I’m looking for Data Science Internship with any position 
 - 😈 Also I want to master the skills of the Ethical Hacking
 - (´。＿。｀) Of course there is also the [lazy APA](https://github.com/chuangyu-hscy/lazy-APA) reference generator that I haven't updated in a long time
