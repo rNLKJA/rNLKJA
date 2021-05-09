@@ -10,14 +10,7 @@ What I like to do now：I want to use data to improve people's lives improve the
   - Operational Research Skills
   - Basic Data Analysis
   
-🛰️　Computation Language: 
-  - Python
-  - R 
-  - C
-  - JavaScript
-  - CSS
-  - HTML
-  - SQL
+🛰️　Computation Language -> Python | R | SQL | HTML | CSS | JavaScript | C
 
 ### Do and To-Do
 - 🏫 I’m currently working on undergraduate Data Science Study 
