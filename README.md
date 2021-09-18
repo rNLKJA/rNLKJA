@@ -11,13 +11,12 @@ What I like to do now：I want to use data to improve people's lives improve the
   - Basic Data Analysis
   
 🛰️　Computation Language -> Python | R | SQL | HTML | CSS | JavaScript | C
+Main Language: Python
 
 ### Do and To-Do
 - 🏫 I’m currently working on undergraduate Data Science Study 
-- ✒️ I’m currently learning Front-End + Back-End Engineering 
 - 🤔 I’m looking for Data Science Internship with any position 
 - 😈 Also I want to master the skills of the Ethical Hacking
-- (´。＿。｀) Of course there is also the [lazy APA](https://github.com/chuangyu-hscy/lazy-APA) reference generator that I haven't updated in a long time
 
 ### Find Me 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/chuangyu_hscy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/huangsunchuangyu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/sunchuangyu.huang)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/chuangyu_hscy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://chuangyu-hscy.com)  [<img src='https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png' alt='notion' height='30'>](https://www.notion.so/huangsunchuangyu/WorkSpace-Navigation-Panel-b7ca1c2d7e12449fbd05daa19eda66eb)
@@ -49,13 +48,12 @@ For those who still want to access the data of those repos, here are the links a
   | 2020 Semester 2  | COMP20008    |Element of Data Processing|[φ(゜▽゜*)♪](https://www.notion.so/huangsunchuangyu/COMP20008-Element-of-Data-Processing-6ced9668aa9c4cc5b18f1f75b43079f2)|☑|
   | 2020 Semester 2  | MAST20005    |Statistic|[ヾ(≧∇≦*)ゝ](https://www.notion.so/huangsunchuangyu/MAST20005-Statistic-3b5b2f93da274fdeb2d9dc6038822d61)|☑|
   | 2020 Semester 2  | MAST20018    |Operations Research and Discrete Math|[ヽ(✿ﾟ▽ﾟ)ノ](https://www.notion.so/huangsunchuangyu/MAST20018-Discrete-Maths-and-Operations-Research-57b79741c0454ec4bbd574622f364da1)|☑|
-  | 2021 Summer Term | FNCE10002    |Principal of Finance|[o(￣▽￣)ｄ](https://www.notion.so/huangsunchuangyu/FNCE10002-Principal-of-Finance-2a7ef2150512474fa68c8a32fc040b0d)                      |☐|
-  | 2021 Febuary Term| MECM20012    |Analysing and Communication           |[(≧∀≦)ゞ](https://www.notion.so/huangsunchuangyu/MECM20012-Analysing-and-Communication-e13fe1c068ca48668429cb8d51a7993b)                      |☐|
-  | 2021 Semester 1  | COMP30027    |Machine Learning                      |[φ(≧ω≦*)♪](https://www.notion.so/huangsunchuangyu/COMP30027-Machine-Learning-d5dc48349290477993f0f6cdabab0473)                      |☐|
-  | 2021 Semester 1  | INFO30005    |Web Information Technology            |[♪(^∇^*)](https://www.notion.so/huangsunchuangyu/INFO30005-Web-Information-Technologies-34b1443d4e1347c4b20680f75634c5cc)                      |☐|
-  | 2021 Semester 1  | MAST30013    |Techniques in Operations Research     |[(　ﾟ∀ﾟ) ﾉ♡](https://www.notion.so/huangsunchuangyu/MAST30013-Techniques-in-Operations-Research-a3985f19435e4a9cb36cccebb7dfdc79)             |☐|
-  | 2021 Semester 1  | MAST30025    |Linear Statistical Models             |[(～￣▽￣)～](https://www.notion.so/huangsunchuangyu/MAST30025-Linear-Statistical-Models-6f84e125d94a40489a27f01142395e91)                      |☐|
-  | 2021 Winter Term | EDUC30071    |Expertise and Your Professional Career|[ㄟ(≧◇≦)ㄏ](https://www.notion.so/huangsunchuangyu/EDUC30071-Expertise-and-Your-Professional-Career-85bd52b376994ca586ffcf3beeea471a). |☐|
+  | 2021 Summer Term | FNCE10002    |Principal of Finance|[o(￣▽￣)ｄ](https://www.notion.so/huangsunchuangyu/FNCE10002-Principal-of-Finance-2a7ef2150512474fa68c8a32fc040b0d)                      |☑|
+  | 2021 Semester 1  | COMP30027    |Machine Learning                      |[φ(≧ω≦*)♪](https://www.notion.so/huangsunchuangyu/COMP30027-Machine-Learning-d5dc48349290477993f0f6cdabab0473)                      |☑|
+  | 2021 Semester 1  | INFO30005    |Web Information Technology            |[♪(^∇^*)](https://www.notion.so/huangsunchuangyu/INFO30005-Web-Information-Technologies-34b1443d4e1347c4b20680f75634c5cc)                      |☑|
+  | 2021 Semester 1  | MAST30013    |Techniques in Operations Research     |[(　ﾟ∀ﾟ) ﾉ♡](https://www.notion.so/huangsunchuangyu/MAST30013-Techniques-in-Operations-Research-a3985f19435e4a9cb36cccebb7dfdc79)             |☑|
+  | 2021 Semester 1  | MAST30025    |Linear Statistical Models             |[(～￣▽￣)～](https://www.notion.so/huangsunchuangyu/MAST30025-Linear-Statistical-Models-6f84e125d94a40489a27f01142395e91)                      |☑|
+  | 2021 Winter Term | EDUC30072    |Positive Leadership Career|[ㄟ(≧◇≦)ㄏ](https://www.notion.so/huangsunchuangyu/EDUC30071-Expertise-and-Your-Professional-Career-85bd52b376994ca586ffcf3beeea471a). |☑|
   | 2021 Semester 2  | COMP30022    |IT Project                            |[( *︾▽︾)](https://www.notion.so/huangsunchuangyu/COMP30022-IT-Project-e0687c4d6a7b4ee18d164b25c9bc93d8)                      |☐|
   | 2021 Semester 2  | INFO30006    |Information Security and Privacy      |[(/≧▽≦)/](https://www.notion.so/huangsunchuangyu/INFO30006-Information-Security-and-Privacy-e5831e33876a48b59a226c78d16a1688)              |☐|
   | 2021 Semester 2  | MAST30027    |Modern Applied Statistics             |[ε(*´･∀･｀)зﾞ](https://www.notion.so/huangsunchuangyu/MAST30027-Modern-Applied-Statistics-cd653a43df39432fb788e42b9a878b3b)                      |☐|
