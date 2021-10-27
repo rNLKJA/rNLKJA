@@ -6,12 +6,18 @@ What I like to do now：I want to use data to improve people's lives and bring h
 ### Skills and Experience:
 💠　Data Science Skills
   - Basic Probability and Statistic
-  - Operational Research Skills
   - Basic Data Analysis
+  - Operational Research Skills
+
+### Other skill set:
+- Project management
+- Leadership
+- Business negotiation
   
 🛰️　Computation Language -> Python | R | SQL | JavaScript 
 
-**Main Language:** Python
+## Main Language:
+- Python
 
 ### Do and To-Do
 - 🏫 I’m currently working on undergraduate Data Science Study 
