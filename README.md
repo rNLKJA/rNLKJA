@@ -10,8 +10,9 @@ What I like to do now：I want to use data to improve people's lives improve the
   - Operational Research Skills
   - Basic Data Analysis
   
-🛰️　Computation Language -> Python | R | SQL | HTML | CSS | JavaScript | C
-Main Language: Python
+🛰️　Computation Language -> Python | R | SQL | JavaScript 
+
+**Main Language:** Python
 
 ### Do and To-Do
 - 🏫 I’m currently working on undergraduate Data Science Study 
@@ -54,10 +55,9 @@ For those who still want to access the data of those repos, here are the links a
   | 2021 Semester 1  | MAST30013    |Techniques in Operations Research     |[(　ﾟ∀ﾟ) ﾉ♡](https://www.notion.so/huangsunchuangyu/MAST30013-Techniques-in-Operations-Research-a3985f19435e4a9cb36cccebb7dfdc79)             |☑|
   | 2021 Semester 1  | MAST30025    |Linear Statistical Models             |[(～￣▽￣)～](https://www.notion.so/huangsunchuangyu/MAST30025-Linear-Statistical-Models-6f84e125d94a40489a27f01142395e91)                      |☑|
   | 2021 Winter Term | EDUC30072    |Positive Leadership Career|[ㄟ(≧◇≦)ㄏ](https://www.notion.so/huangsunchuangyu/EDUC30071-Expertise-and-Your-Professional-Career-85bd52b376994ca586ffcf3beeea471a). |☑|
-  | 2021 Semester 2  | COMP30022    |IT Project                            |[( *︾▽︾)](https://www.notion.so/huangsunchuangyu/COMP30022-IT-Project-e0687c4d6a7b4ee18d164b25c9bc93d8)                      |☐|
-  | 2021 Semester 2  | INFO30006    |Information Security and Privacy      |[(/≧▽≦)/](https://www.notion.so/huangsunchuangyu/INFO30006-Information-Security-and-Privacy-e5831e33876a48b59a226c78d16a1688)              |☐|
-  | 2021 Semester 2  | MAST30027    |Modern Applied Statistics             |[ε(*´･∀･｀)зﾞ](https://www.notion.so/huangsunchuangyu/MAST30027-Modern-Applied-Statistics-cd653a43df39432fb788e42b9a878b3b)                      |☐|
-  | 2021 Semester 2  | MAST30024    |Applied Data Science                  |[✧(≖ ◡ ≖✿)](https://www.notion.so/huangsunchuangyu/MAST30034-Applied-Data-Science-7564b89fda294af48eb9cbae1d48ea76)                      |☐|
+  | 2021 Semester 2  | COMP30022    |IT Project                            |[( *︾▽︾)](https://www.notion.so/huangsunchuangyu/COMP30022-IT-Project-e0687c4d6a7b4ee18d164b25c9bc93d8)                      |☑|
+  | 2021 Semester 2  | MAST30027    |Modern Applied Statistics             |[ε(*´･∀･｀)зﾞ](https://www.notion.so/huangsunchuangyu/MAST30027-Modern-Applied-Statistics-cd653a43df39432fb788e42b9a878b3b)                      |☑|
+  | 2021 Semester 2  | MAST30024    |Applied Data Science                  |[✧(≖ ◡ ≖✿)](https://www.notion.so/huangsunchuangyu/MAST30034-Applied-Data-Science-7564b89fda294af48eb9cbae1d48ea76)                      |☑|
 
   </p>
 </details>
