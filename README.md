@@ -35,7 +35,7 @@ Due to I want to make my github look nice and neat. I deleted most repos due to 
 For those who still want to access the data of those repos, here are the links about my Notion notes, you could find most of them at there.
 (But I'm not sure they are fully recorded (⊙﹏⊙） so I hopefully these limit resources can help you guys...)
 
-<details><summary><b>Subjects of My Undergraduate Study && Google Drive Links ↗[GO!]</b></summary>
+<!-- <details><summary><b>Subjects of My Undergraduate Study && Google Drive Links ↗[GO!]</b></summary>
   <p>
   
   Some notion notes are empty due to I haven't complete the subject yet.
@@ -65,4 +65,4 @@ For those who still want to access the data of those repos, here are the links a
   | 2021 Semester 2  | MAST30024    |Applied Data Science                  |[✧(≖ ◡ ≖✿)](https://www.notion.so/huangsunchuangyu/MAST30034-Applied-Data-Science-7564b89fda294af48eb9cbae1d48ea76)                      |☑|
 
   </p>
-</details>
+</details> -->
