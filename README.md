@@ -16,8 +16,6 @@ I'm interesting in data science and passionating in data. What I like to do now�
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/chuangyu-hscy/](https://www.linkedin.com/in/chuangyu-hscy/)
 
-- ⚡ Fun fact **I also learning computer science stuffs (・・;)ゞ**
-
 ---
 
 <h3 align="left">Connect with me:</h3>
