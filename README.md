@@ -30,20 +30,6 @@ I'm interesting in data science and passionating in data. What I like to do nowï
 
 <h3 align="left">Languages and Tools:</h3>
 
-#### Data Science Related:
-
-
-#### Database
-
-
-#### Full Stack Development
-
-
-
-#### Operation Systems
-
-
-
 <table align='center'>
  <tr>
   <th><h4>Fields</h4></th>
