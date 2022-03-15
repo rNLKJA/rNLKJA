@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chuangyu-hscy&label=Profile%20views&color=0e75b6&style=flat" alt="chuangyu-hscy" /> </p>
 
 <!-- title/welcome words -->
-<h1 align='center'>Hello there (ฅ'ω'ฅ) This is Rin Huang 👨‍💻</h1>
+<h1 align='center'>Hello (ฅ'ω'ฅ) ~ <br /> This is Rin Huang</h1>
 
 <!-- short description -->
 <p align='center'>A Data Science student study in the <a href='https://www.unimelb.edu.au/' alt='unimelb'>Unimelb</a> 🇦🇺 from China 🇨🇳</p>
