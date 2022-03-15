@@ -39,7 +39,7 @@
 <!--   <tr><p>📄 Check my <a href='https://www.overleaf.com/read/crhyszcrnykm' alt='overleaf resume'>resume</a></p></tr> -->
 </table>
   
-<hr align='center' width='550'/>
+<!-- <hr align='center' width='550'/> -->
 
 <!-- Programming skills related -->
 
