@@ -32,7 +32,7 @@
 <h2 align='center'>More about Me</h2>
   
 <table border="none" width='550'>
-  <tr><p>🎓 Currently major in <a href='https://study.unimelb.edu.au/find/courses/major/data-science/'>Unimelb Data Science Undergrad</a></p></tr>
+  <tr><p>🎓 Currently major in <a href='https://study.unimelb.edu.au/find/courses/major/data-science/'>Unimelb Data Science Undergrad &nbsp</a></p></tr>
   <tr><p>🗂️ I'm accumlating my tech skills & other soft skills &nbsp &nbsp &nbsp &nbsp</p></tr>
   <tr><p>👀 Looking for </b>ANY Data Science related projects! &nbsp &nbsp &nbsp &nbsp &nbsp </p></tr>
   <tr><p>💬 Ask me about <b>Unimelb DS undergrad experience! &nbsp &nbsp</b></p></tr>
