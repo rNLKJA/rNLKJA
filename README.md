@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chuangyu-hscy&label=Profile%20views&color=0e75b6&style=flat" alt="chuangyu-hscy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chuangyu-hscy&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="chuangyu-hscy" /></p>
 
 <!-- title/welcome words -->
 <h1 align='center'>~ Hello (ฅ'ω'ฅ) ~ <br /> This is Rin Huang</h1>
@@ -8,9 +8,9 @@
 
 <!-- social media links -->
 <div align='center'>
-  <a href='https://www.linkedin.com/in/chuangyu-hscy/' alt='rin huang linkedin'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin link' witdh='40'></a>
-  <a href='https://www.instagram.com/chuangyu_hscy/' alt='rin huang instagram'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' witdh='40'></a>
-  <a href="https://www.overleaf.com/read/crhyszcrnykm" alt=""><img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" alt='overleaf' witdh='40'/></a>
+  <a href='https://www.linkedin.com/in/chuangyu-hscy/' alt='rin huang linkedin'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin link' height='50' width='100'></a>
+<!--   <a href='https://www.instagram.com/chuangyu_hscy/' alt='rin huang instagram'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='25'></a> -->
+  <a href="https://www.overleaf.com/read/crhyszcrnykm" alt=""><img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" alt='overleaf' height='50' width='100'/></a>
 </div>
 
 <!-- github stats -->
