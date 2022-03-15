@@ -16,6 +16,10 @@
 
 <div align='center'><img src='https://github-readme-stats.vercel.app/api?username=chuangyu-hscy&show_icons=true&count_private=true&theme=dark' alt='github stats' width='350'></div>
 
+
+<div align='center'><img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chuangyu-hscy&theme=monokai' alt='github stats' width='350'></div>
+
+
 <div align='center' text-content='justify'>  
   <p>Interesting in data science and passionating in data.</p>
   <p>Wanna use data with modern techs to improve people's lives ♬ヽ(*・ω・)ﾉ  </p>
