@@ -5,7 +5,7 @@
  -->
 <br />
 
-<div align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=9be9e4&height=120&section=header&text=~%Hello %(ฅ'ω'ฅ)% ~%20 This %is % Rin %Huang&fontSize=25&fontColor=fff" width='550' /></div>
+<div align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=9be9e4&height=150&section=header&text=~%Hello %(ฅ'ω'ฅ)% ~%20 This %is % Rin %Huang&fontSize=25&fontColor=fff" width='650' /></div>
 
 
 
@@ -25,8 +25,8 @@
 <!-- github stats -->
 
 <div align='center'>
-  <img src='https://github-readme-stats.vercel.app/api?username=chuangyu-hscy&show_icons=true&count_private=true&theme=radical' alt='github stats' width='275'>
-  <img width="275" src="https://github-readme-streak-stats.herokuapp.com/?user=chuangyu-hscy&theme=radical" alt="chuangyu-hscy" />
+  <img src='https://github-readme-stats.vercel.app/api?username=chuangyu-hscy&show_icons=true&count_private=true&theme=radical' alt='github stats' height=125>
+  <img  height='125' src="https://github-readme-streak-stats.herokuapp.com/?user=chuangyu-hscy&theme=radical" alt="chuangyu-hscy" />
 </div>
 
 <!-- <div align='center'>
@@ -42,6 +42,7 @@
   <p>Wanna use data improve people's lives ♬ヽ(*・ω・)ﾉ  </p>
 <div>
 
+<img width='650' align='center' src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt='snake animation'>
 
 <!-- <hr align='center' width='550'/> -->
 
