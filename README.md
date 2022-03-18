@@ -42,8 +42,8 @@
   <p>Wanna use data improve people's lives ♬ヽ(*・ω・)ﾉ  </p>
 <div>
 
-<img width='650' align='center' src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt='snake animation'>
-
+<img width='650' align='center' src="https://github.com/chuangyu-hscy/chuangyu-hscy/blob/output/github-contribution-grid-snake.svg" alt='snake animation'>
+<img src="https://github.com/chuangyu-hscy/chuangyu-hscy/blob/output/metrics.plugin.languages.svg" />
 <!-- <hr align='center' width='550'/> -->
 
 <!-- <h2 align='center'>More about Me</h2> -->
