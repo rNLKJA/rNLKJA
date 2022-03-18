@@ -1,24 +1,40 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chuangyu-hscy&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="chuangyu-hscy" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chuangyu-hscy&label=Profile%20views&color=fd428d&style=for-the-badge" alt="chuangyu-hscy" /></p>
 
 <!-- title/welcome words -->
-<h1 align='center'>~ Hello (ฅ'ω'ฅ) ~ <br /> This is Rin Huang</h1>
+<!-- <h1 align='center'>~ Hello (ฅ'ω'ฅ) ~ <br /> This is Rin Huang</h1>
+ -->
+<br />
 
-<!-- short description -->
-<p align='center'>A Data Science student study in the <a href='https://www.unimelb.edu.au/' alt='unimelb'>Unimelb</a> 🇦🇺 from China 🇨🇳</p>
+<div align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=9be9e4&height=120&section=header&text=~%Hello %(ฅ'ω'ฅ)% ~%20 This %is % Rin %Huang&fontSize=25&fontColor=fff" width='550' /></div>
+
+<br />
 
 <!-- social media links -->
 <div align='center'>
-  <a href='https://www.linkedin.com/in/chuangyu-hscy/' alt='rin huang linkedin'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin link' height='25' width='100'></a>
+  <a href="https://www.instagram.com/chuangyu_hscy/" target="_blank"><img height='25' width=110 src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href='https://www.linkedin.com/in/chuangyu-hscy/' alt='rin huang linkedin'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin link' height='25' width=110></a>
 <!--   <a href='https://www.instagram.com/chuangyu_hscy/' alt='rin huang instagram'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='25'></a> -->
-  <a href="https://www.overleaf.com/read/crhyszcrnykm" alt=""><img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" alt='overleaf' height='25' width='100'/></a>
+  <a href="https://www.overleaf.com/read/crhyszcrnykm" alt=""><img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" alt='overleaf' height='25' width=110/></a>
+  
 </div>
+
+<!-- short description -->
+<p align='center'>A Data Science student study in the <a href='https://www.unimelb.edu.au/' alt='unimelb'>Unimelb</a> 🇦🇺 from China 🇨🇳 </p>
+
 
 <!-- github stats -->
 
-<div align='center'><img src='https://github-readme-stats.vercel.app/api?username=chuangyu-hscy&show_icons=true&count_private=true&theme=dark' alt='github stats' width='350'></div>
+<div align='center'>
+  <img src='https://github-readme-stats.vercel.app/api?username=chuangyu-hscy&show_icons=true&count_private=true&theme=radical' alt='github stats' width='275'>
+  <img width="275" src="https://github-readme-streak-stats.herokuapp.com/?user=chuangyu-hscy&theme=radical" alt="chuangyu-hscy" />
+</div>
 
-
-<div align='center'><img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chuangyu-hscy&theme=monokai' alt='github stats' width='350'></div>
+<!-- <div align='center'>
+  <img width='275' src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuangyu-hscy&layout=compact&langs_count=7&theme=radical"/>
+</div> -->
+ 
+<!-- 
+<div align='center'><img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chuangyu-hscy&theme=monokai' alt='github stats' width='350'></div> -->
 
 
 <div align='center' text-content='justify'>  
