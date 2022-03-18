@@ -11,11 +11,13 @@
 
 <!-- social media links -->
 <div align='center'>
-  <a href="https://www.instagram.com/chuangyu_hscy/" target="_blank"><img height='25' width=110 src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href='https://www.linkedin.com/in/chuangyu-hscy/' alt='rin huang linkedin'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin link' height='25' width=110></a>
+  <a href='https://www.github.com/chuangyu-hscy'><img height=25 src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' /></a>
+  <a href="https://www.instagram.com/chuangyu_hscy/" target="_blank"><img height='25' src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href='https://www.linkedin.com/in/chuangyu-hscy/' alt='rin huang linkedin'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin link' height='25' /></a>
 <!--   <a href='https://www.instagram.com/chuangyu_hscy/' alt='rin huang instagram'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='25'></a> -->
-  <a href="https://www.overleaf.com/read/crhyszcrnykm" alt=""><img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" alt='overleaf' height='25' width=110/></a>
-  
+  <a href="https://www.overleaf.com/read/crhyszcrnykm" alt=""><img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" alt='overleaf' height='25' /></a>
+ <a href="https://discord.gg/U6uYEfBjqX" target="_blank"><img height='25' src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:huang@rin.contact"><img height='25' src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <!-- short description -->
