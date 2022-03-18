@@ -48,13 +48,13 @@
 <br />
  
 <div align='center'>
-<img width='550' align='center' src="https://github.com/chuangyu-hscy/chuangyu-hscy/blob/output/github-contribution-grid-snake.svg" alt='snake animation' />
+<img width='650' align='center' src="https://github.com/chuangyu-hscy/chuangyu-hscy/blob/output/github-contribution-grid-snake.svg" alt='snake animation' />
 
-<img width=100  src="https://c.tenor.com/cBiRfjAlMgYAAAAi/bongocat-happy.gif" align='center'/>
+<!-- <img width=100  src="https://c.tenor.com/cBiRfjAlMgYAAAAi/bongocat-happy.gif" align='center'/> -->
 
 <br />
-<img src='https://c.tenor.com/3-zt2Wtxch4AAAAC/rainbow-rainbow-bar.gif' width=650 align='center' height=5>
+<img src='https://c.tenor.com/3-zt2Wtxch4AAAAC/rainbow-rainbow-bar.gif' width=650 align='center' height=2>
     
 
-<b><p align='center'>See pinned repositories <img align='center' src="https://c.tenor.com/k2GZAYWuTS4AAAAi/backhand-index-pointing-down-joypixels.gif" width=45 /></p></b>
+<b><p align='center'>SEE PINNED REPOS <img align='center' src="https://c.tenor.com/k2GZAYWuTS4AAAAi/backhand-index-pointing-down-joypixels.gif" width=45 /></p></b>
 </div>
