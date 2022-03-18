@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chuangyu-hscy&label=Profile%20views&color=fd428d&style=for-the-badge" alt="chuangyu-hscy" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chuangyu-hscy&label=Profile%20views&color=fd428d&style=badge" alt="chuangyu-hscy" /></p>
 
 <!-- title/welcome words -->
 <!-- <h1 align='center'>~ Hello (ฅ'ω'ฅ) ~ <br /> This is Rin Huang</h1>
@@ -7,7 +7,7 @@
 
 <div align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=9be9e4&height=120&section=header&text=~%Hello %(ฅ'ω'ฅ)% ~%20 This %is % Rin %Huang&fontSize=25&fontColor=fff" width='550' /></div>
 
-<br />
+
 
 <!-- social media links -->
 <div align='center'>
