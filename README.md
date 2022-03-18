@@ -43,18 +43,20 @@
 <div>
 
 
-<hr align='center' width='550'/>
+<!-- <hr align='center' width='550'/> -->
 
-<h2 align='center'>More about Me</h2>
+<!-- <h2 align='center'>More about Me</h2> -->
   
-<table border="none" width='550'>
+<!-- <table border="none" width='550'>
   <tr><p>🎓 Currently major in <a href='https://study.unimelb.edu.au/find/courses/major/data-science/'>Unimelb Data Science Undergrad &nbsp</a></p></tr>
   <tr><p>🗂️ I'm accumlating my tech skills & other soft skills &nbsp &nbsp &nbsp &nbsp</p></tr>
   <tr><p>👀 Looking for <b>ANY</b> Data Science related projects! &nbsp &nbsp &nbsp &nbsp &nbsp </p></tr>
   <tr><p>💬 Ask me about Unimelb DS undergrad experience! &nbsp &nbsp</p></tr>
+
+</table> -->
+
 <!--   <tr><p>📄 Check my <a href='https://www.overleaf.com/read/crhyszcrnykm' alt='overleaf resume'>resume</a></p></tr> -->
-</table>
-  
+ 
 <!-- <hr align='center' width='550'/> -->
 
 <!-- Programming skills related -->
