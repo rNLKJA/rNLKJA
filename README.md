@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chuangyu-hscy&label=Profile%20views&color=fd428d&style=badge" alt="chuangyu-hscy" /></p>
+<p align="left" margin> <img src="https://komarev.com/ghpvc/?username=chuangyu-hscy&label=Profile%20views&color=fd428d&style=badge" alt="chuangyu-hscy" /></p>
 
 <!-- title/welcome words -->
 <!-- <h1 align='center'>~ Hello (ฅ'ω'ฅ) ~ <br /> This is Rin Huang</h1>
@@ -44,9 +44,9 @@
   <p>Wanna use data improve people's lives ♬ヽ(*・ω・)ﾉ  </p>
 <div>
 
-<img width='500' align='center' src="https://github.com/chuangyu-hscy/chuangyu-hscy/blob/output/github-contribution-grid-snake.svg" alt='snake animation' />
+<img width='550' align='center' src="https://github.com/chuangyu-hscy/chuangyu-hscy/blob/output/github-contribution-grid-snake.svg" alt='snake animation' />
 
-<img width=150  src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif" align='center'/>
+<img width=100  src="https://c.tenor.com/cBiRfjAlMgYAAAAi/bongocat-happy.gif" align='center'/>
 <!-- <img src="https://github.com/chuangyu-hscy/chuangyu-hscy/blob/output/metrics.plugin.languages.svg" /> -->
 <!-- <hr align='center' width='550'/> -->
 
