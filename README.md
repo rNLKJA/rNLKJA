@@ -42,8 +42,9 @@
   <p>Wanna use data improve people's lives ♬ヽ(*・ω・)ﾉ  </p>
 <div>
 
-<img width='650' align='center' src="https://github.com/chuangyu-hscy/chuangyu-hscy/blob/output/github-contribution-grid-snake.svg" alt='snake animation' />
- 
+<img width='500' align='center' src="https://github.com/chuangyu-hscy/chuangyu-hscy/blob/output/github-contribution-grid-snake.svg" alt='snake animation' />
+
+<img width=150  src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif" align='center'/>
 <!-- <img src="https://github.com/chuangyu-hscy/chuangyu-hscy/blob/output/metrics.plugin.languages.svg" /> -->
 <!-- <hr align='center' width='550'/> -->
 
