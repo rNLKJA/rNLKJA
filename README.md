@@ -43,7 +43,7 @@
 
 <div align='center' text-content='justify' >  
   <p>Interesting and passionating in data science <img src='https://c.tenor.com/1vhgkHU7lI0AAAAi/takodachi-ina.gif' width=45/></p>
-  <p><img src='https://c.tenor.com/gLn66X-4ucMAAAAi/ina-unravel.gif' width=45/> Wanna use data improve people's lives ♬ヽ(*・ω・)ﾉ  </p>
+  <p>Wanna use data improve people's lives ♬ヽ(*・ω・)ﾉ  </p>
 </div>
 <br />
  
