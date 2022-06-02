@@ -42,7 +42,7 @@
 <div align='center'><img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chuangyu-hscy&theme=monokai' alt='github stats' width='350'></div> -->
 
 <div align='center' text-content='justify' >  
-  <p>Interesting and passionating in data science <img src='https://c.tenor.com/1vhgkHU7lI0AAAAi/takodachi-ina.gif' width=45/></p>
+  <p>Interesting and passionating in data science <img src='https://c.tenor.com/1vhgkHU7lI0AAAAi/takodachi-ina.gif' width=45 /></p>
   <p>Wanna use data improve people's lives ♬ヽ(*・ω・)ﾉ  </p>
 </div>
 <br />
