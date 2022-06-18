@@ -23,8 +23,8 @@
 
 <br />
 <!-- short description -->
-<p align='center'><img src='https://c.tenor.com/DehpokEAjJEAAAAi/cat-loading.gif' width=50/> A Data Science student study in the <a href='https://www.unimelb.edu.au/' alt='unimelb'>Unimelb</a> <img src='https://c.tenor.com/nwE8h9HLqZUAAAAj/flag-country.gif' width=20 /> </p>
-<br />
+<!-- <p align='center'>A Data Science student study in the <a href='https://www.unimelb.edu.au/' alt='unimelb'>Unimelb</a> <img src='https://c.tenor.com/nwE8h9HLqZUAAAAj/flag-country.gif' width=20 /> </p>
+<br /> -->
 
 <!-- github stats -->
 
@@ -42,7 +42,7 @@
 <div align='center'><img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chuangyu-hscy&theme=monokai' alt='github stats' width='350'></div> -->
 
 <div align='center' text-content='justify' >  
-  <p>Interesting and passionating in data science <img src='https://c.tenor.com/1vhgkHU7lI0AAAAi/takodachi-ina.gif' width=45 /></p>
+  <p>Interesting, passionating and learning in data science! </p>
   <p>Wanna use data improve people's lives ♬ヽ(*・ω・)ﾉ  </p>
 </div>
 <br />
