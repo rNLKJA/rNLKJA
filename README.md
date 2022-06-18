@@ -29,8 +29,8 @@
 <!-- github stats -->
 
 <div align='center'>
-  <img src='https://github-readme-stats.vercel.app/api?username=chuangyu-hscy&show_icons=true&count_private=true&theme=radical' alt='github stats' height=125>
-  <img  height='125' src="https://github-readme-streak-stats.herokuapp.com/?user=chuangyu-hscy&theme=radical" alt="chuangyu-hscy" />
+  <img src='https://github-readme-stats.vercel.app/api?username=rNLKJA&show_icons=true&count_private=true&theme=radical' alt='github stats' height=125 />
+  <img  height='125' src="https://github-readme-streak-stats.herokuapp.com/?user=rNLKJA&theme=radical" alt="chuangyu-hscy" />
 </div>
 
 <br />
