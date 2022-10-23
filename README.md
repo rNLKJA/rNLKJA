@@ -1,11 +1,8 @@
 <!-- <p align="left" margin> <img src="https://komarev.com/ghpvc/?username=chuangyu-hscy&label=Profile%20views&color=fd428d&style=badge" alt="chuangyu-hscy" /></p> -->
 
 <!-- title/welcome words -->
-<!-- <h1 align='center'>~ Hello (ฅ'ω'ฅ) ~ <br /> This is Rin Huang</h1>
- -->
+<h2 align='center'>~ Hello (ฅ'ω'ฅ) ~ This is Rin Huang</h2>
 
-
-<div align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=9be9e4&height=150&section=header&text=~%Hello %(ฅ'ω'ฅ)% ~%20 This %is % Rin %Huang&fontSize=25&fontColor=fff" width='650' /></div>
 
 
 
