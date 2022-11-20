@@ -1,7 +1,7 @@
 <!-- <p align="left" margin> <img src="https://komarev.com/ghpvc/?username=chuangyu-hscy&label=Profile%20views&color=fd428d&style=badge" alt="chuangyu-hscy" /></p> -->
 
 <!-- title/welcome words -->
-<h2 align='center'>~ Hello (ฅ'ω'ฅ) ~ This is Rin Huang</h2>
+<h1 align='center' style="font-family:LED Counter 7;">~ Hello (ฅ'ω'ฅ) ~ This is Rin Huang</h2>
 
 
 
