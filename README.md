@@ -1,57 +1,59 @@
-<!-- <p align="left" margin> <img src="https://komarev.com/ghpvc/?username=chuangyu-hscy&label=Profile%20views&color=fd428d&style=badge" alt="chuangyu-hscy" /></p> -->
-
-<!-- title/welcome words -->
-<h1 align='center' style="font-family:LED Counter 7;">~ Hello (ฅ'ω'ฅ) ~ This is Rin Huang</h2>
 
 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)This is Rin Huang
+==============================================================================================================================
+
+<a href="https://www.github.com/rNLKJA" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/rNLKJA?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/chuangyu_hscy" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/chuangyu_hscy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+
+I'm a Data Scientist. Web Developer. Barista
+--------------------------------------
+
+* 🌍  I'm based in Melbourne
+* 🖥️  See my portfolio at [rin.contact](http://rin.contact)
+* ✉️  You can contact me at [huang@rin.contact](mailto:huang@rin.contact)
+* 🚀  I'm currently working on [re-construct my portfolio](http://rin.contact)
+* 🧠  I'm learning PySpark, React, Django
+* 🤝  I'm open to collaborating on any data science projects
+* ⚡  Actually I hate math...
 
 
-<!-- social media links -->
-<div align='center'>
-  <img width=30 src="https://c.tenor.com/CsqnkjKnojgAAAAi/dm4uz3-foekoe.gif" />
-  <a href='https://www.github.com/chuangyu-hscy'><img height=25 src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' /></a>
-  <a href="https://www.instagram.com/chuangyu_hscy/" target="_blank"><img height='25' src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href='https://www.linkedin.com/in/chuangyu-hscy/' alt='rin huang linkedin'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin link' height='25' /></a>
-<!--   <a href='https://www.instagram.com/chuangyu_hscy/' alt='rin huang instagram'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='25'></a> -->
-  <a href="https://www.overleaf.com/read/crhyszcrnykm" alt=""><img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" alt='overleaf' height='25' /></a>
- <a href="https://discord.gg/U6uYEfBjqX" target="_blank"><img height='25' src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:huang@rin.contact"><img height='25' src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
 
-<br />
-<!-- short description -->
-<!-- <p align='center'>A Data Science student study in the <a href='https://www.unimelb.edu.au/' alt='unimelb'>Unimelb</a> <img src='https://c.tenor.com/nwE8h9HLqZUAAAAj/flag-country.gif' width=20 /> </p>
-<br /> -->
+### Skills
 
-<!-- github stats -->
 
-<div align='center'>
-  <img src='https://github-readme-stats.vercel.app/api?username=rNLKJA&show_icons=true&count_private=true&theme=radical' alt='github stats' height=125 />
-  <img  height='125' src="https://github-readme-streak-stats.herokuapp.com/?user=rNLKJA&theme=radical" alt="chuangyu-hscy" />
-</div>
+<p align="left">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+</p>
 
-<br />
-<!-- <div align='center'>
-  <img width='275' src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuangyu-hscy&layout=compact&langs_count=7&theme=radical"/>
-</div> -->
- 
-<!-- 
-<div align='center'><img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chuangyu-hscy&theme=monokai' alt='github stats' width='350'></div> -->
 
-<div align='center' text-content='justify' >  
-  <p>Interesting, passionating and learning in data science! </p>
-  <p>Wanna use data improve people's lives ♬ヽ(*・ω・)ﾉ  </p>
-</div>
-<br />
- 
-<div align='center'>
-<img width='650' align='center' src="https://github.com/chuangyu-hscy/chuangyu-hscy/blob/output/github-contribution-grid-snake.svg" alt='snake animation' />
+### Socials
 
-<!-- <img width=100  src="https://c.tenor.com/cBiRfjAlMgYAAAAi/bongocat-happy.gif" align='center'/> -->
+<p align="left"> <a href="https://discord.com/users/两小姐的小迷妹#3334" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/rNLKJA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/chuangyu_hscy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/chuangyu-hscy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/chuangyu_hscy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-<br />
-<img src='https://c.tenor.com/3-zt2Wtxch4AAAAC/rainbow-rainbow-bar.gif' width=650 align='center' height=2>
-    
+### My GitHub Stats
 
-<b><p align='center'>SEE PINNED REPOS <img align='center' src="https://c.tenor.com/k2GZAYWuTS4AAAAi/backhand-index-pointing-down-joypixels.gif" width=45 /></p></b>
-</div>
+<img width='100%' align='center' src="https://github.com/chuangyu-hscy/chuangyu-hscy/blob/output/github-contribution-grid-snake.svg" alt='snake animation' />
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/rNLKJA"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+
+
