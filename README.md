@@ -14,15 +14,12 @@ I'm a Data Scientist. Web Developer. Barista
 * 🌍  I'm based in Melbourne
 * 🖥️  See my portfolio at [rin.contact](http://rin.contact)
 * ✉️  You can contact me at [huang@rin.contact](mailto:huang@rin.contact)
-* 🚀  I'm currently working on [re-construct my portfolio](http://rin.contact)
+* 🚀  I'm currently working on my Master of Data Science studies
 * 🧠  I'm learning PySpark, React, Django
 * 🤝  I'm open to collaborating on any data science projects
 * ⚡  Actually I hate math...
 
-
-
 ### Skills
-
 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
