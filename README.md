@@ -8,7 +8,7 @@ src="https://img.shields.io/github/followers/rNLKJA?logo=github&style=for-the-ba
 src="https://img.shields.io/twitter/follow/chuangyu_hscy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
-I'm a Data Scientist. Web Developer. Barista
+I'm a Data Engineer. Web Developer. Barista
 --------------------------------------
 
 * 🌍  I'm based in Melbourne
