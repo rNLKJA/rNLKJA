@@ -4,9 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==============================================================================================================================
 
 <a href="https://www.github.com/rNLKJA" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/rNLKJA?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/chuangyu_hscy" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/chuangyu_hscy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+src="https://img.shields.io/github/followers/rNLKJA?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/chuangyu_hscy" target="_blank" rel="noreferrer"></a>
 
 I'm a Data Engineer. Web Developer. Barista
 --------------------------------------
