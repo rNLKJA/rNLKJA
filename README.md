@@ -1,50 +1,42 @@
+# Hi! 👋 This is Rin Huang
+
+Master of Data Science degree graduate from the University of Melbourne, with a concentration on harnessing data and cloud technologies to amplify business growth.My journey in data science weaves a tapestry of unraveling data, uncovering patterns, and morphing them into strategic insights that uplift business decisions.Targeting roles in Data Science, Data, and Cloud Engineering, I specialize in transforming complex datasets into compelling, actionable solutions and am ardently seeking to bring this passion into a vibrant team to progress in data-centric decision making.
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)This is Rin Huang
-==============================================================================================================================
+---
 
-<a href="https://www.github.com/rNLKJA" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/rNLKJA?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/chuangyu_hscy" target="_blank" rel="noreferrer"></a>
+🌏 **Based in Melbourne, Australia**
 
-I'm a Data Engineer. Web Developer. Barista
---------------------------------------
+🎓 **Education**:
+- Bachelor's degree in Data Science, University of Melbourne (June 2019 - July 2022)
+- Currently pursuing a Master's degree in Data Science, University of Melbourne (February 2023 - June 2024)
 
-* 🌍  I'm based in Melbourne
-* 🖥️  See my portfolio at [rin.contact](http://rin.contact)
-* ✉️  You can contact me at [huang@rin.contact](mailto:huang@rin.contact)
-* 🚀  I'm currently working on my Master of Data Science studies
-* 🧠  I'm learning PySpark, React, Django
-* 🤝  I'm open to collaborating on any data science projects
-* ⚡  Actually I hate math...
+📈 **Experience**:
+- **Digital Content Library Builder at HEX** (November 2023 - Present): Enhancing e-learning through user experience design and digital content creation.
+- **Capstone Project - Industrial Consultant | Data Analyst at CSIRO** (February 2023 - November 2023): Developed and maintained data pipelines, contributing to impactful data solutions for food security research.
+- **Capstone Project - Industrial Consultant | Data Engineer | Scrum Master at CSL** (February 2022 - June 2022): Led teams in analytical projects, focusing on advanced data visualization and clustering algorithms.
 
-### Skills
+💻 **Technical Proficiency**:
+- **Languages & Frameworks**: Proficient in Python, JavaScript, HTML/CSS, React.js, SQL, and MongoDB.
+- **Data Science & Machine Learning**: Skilled in creating pipelines, models, and visualizations. Familiar with various ML libraries.
+- **Cloud Technologies**: Experienced in using platforms like Google Cloud and AWS for data storage, processing, and analytics.
 
-<p align="left">
-<!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a> -->
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<!-- <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a> -->
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<!-- <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a> -->
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<!-- <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a> -->
-<!-- <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> -->
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
+🛠️ **Tech Stack**:
+- **Productivity**: Notion Productivity Software
+- **Development & Management**: Product Development, Product Management
+- **Languages**: Fluent in Chinese and English
 
+🏆 **Certifications**:
+- Mental Health First Aid for Tertiary Students
+- Google Data Analytics Certificate
+- Agile with Atlassian Jira
+- Probability and Statistics for Business and Data Science
+- Data Visualisation: Empowering Business with Effective Insights
 
-### Socials
+🚀 **Currently working on**:
+- My Master of Data Science studies.
+- Learning PySpark, React, Django.
+- Developing my personal portfolio website [rin.contact](http://rin.contact).
 
-<p align="left"> <a href="https://discord.com/users/两小姐的小迷妹#3334" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/rNLKJA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/chuangyu_hscy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/chuangyu-hscy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/chuangyu_hscy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Support Me
-
+### Support My Work
 <a href="https://www.buymeacoffee.com/rNLKJA"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-
-
