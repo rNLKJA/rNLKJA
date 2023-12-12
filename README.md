@@ -38,5 +38,5 @@ WHERE
     AND Current_Project = 'Digital Product Development at HEX 🚀';
 ```
 
-### Support My Work
-<a href="https://www.buymeacoffee.com/rNLKJA"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+
