@@ -9,7 +9,7 @@
 # 🏸 Finding balance in life through sports, laughter, and good company.
 
 SELECT
-    'Rin' AS Name,
+    'Rin Huang' AS Name,
     'Data Scientist 📊' AS Role,
     'Melbourne Coffee Aficionado ☕' AS Personal_Interest,
     'Bachelor & Master in Data Science, University of Melbourne 🎓' AS Education,
@@ -35,7 +35,7 @@ WHERE
         'Mental Health First Aid 🩺', 'Probability and Statistics for Business and Data Science 📉', 
         'Data Visualisation 📈'
     )
-    AND Current_Project = 'Digital Product Development at HEX 🚀';
+    AND Current_Project = 'CelSeq2 Result Generator';
 ```
 
 
