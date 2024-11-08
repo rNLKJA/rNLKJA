@@ -9,8 +9,8 @@
 # 🏸 Finding balance in life through sports, laughter, and good company. That means I LOVE START UP Culture!!!
 
 SELECT
-    'Rin Huang' AS Name, -- you can also call me Sunchuangyu Huang
-    'Data Scientist 📊' OR 'Full Stack Data Generalist' OR 'Research Assitant' OR 'Tutor' AS Role, 
+    'Rin Huang' AS Name, -- AKA Sunchuangyu Huang OR 黄孙创宇 in Chinese,
+    'Data Scientist 📊' AND 'Research Assitant' AND 'Tutor' AS Role, 
     'Melbourne Coffee Aficionado ☕' AS Personal_Interest,  -- best coffee must in Melbourne
     'Bachelor & Master in Data Science, University of Melbourne 🎓' AS Education,
     'Work Proficiency in Chinese and English 🌐' AS Languages, 
