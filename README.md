@@ -2,24 +2,25 @@
 
 ```sql
 # Welcome! I'm Rin Huang 🌟
-# 🎓 Holding Master of Data Science degree from Univeristy of Melbourne
+# 🎓 Holding Master of Data Science degree from Univeristy of Melbourne (also work here :D
 # 📊 Passionate about leveraging data to empower small & medium businesses, we know communication is the key
 # 🌐 Venturing into the world of full-stack web development & mastering project management 
-# ☕ Outside the tech realm, I'm a coffee connoisseur, badminton enthusiast, and gaming aficionado (and cats🐱
+# ☕ Outside the tech realm, I'm a coffee connoisseur, badminton enthusiast, and gaming aficionado (and cats 🐱
 # 🏸 Finding balance in life through sports, laughter, and good company. That means I LOVE START UP Culture!!!
 
 SELECT
     'Rin Huang' AS Name, -- you can also call me Sunchuangyu Huang
-    'Data Scientist 📊' OR 'Full Stack Data Generalist' AS Role, 
+    'Data Scientist 📊' OR 'Full Stack Data Generalist' OR 'Research Assitant' OR 'Tutor' AS Role, 
     'Melbourne Coffee Aficionado ☕' AS Personal_Interest,  -- best coffee must in Melbourne
     'Bachelor & Master in Data Science, University of Melbourne 🎓' AS Education,
     'Work Proficiency in Chinese and English 🌐' AS Languages, 
     'Adaptive MBTI & recent ENTJ, Consistently Judging (J) 🔄' AS Personality
 FROM
-    'Emerging Tech Enthusiasts 💡' AND 'Data Storyteller' AND 'Team Cohersion' -- consider myself as a generalist
+    'Emerging Tech Enthusiasts 💡' AND 'Data Storyteller' AND 'Team Cohesion' -- consider myself as a generalist
 WHERE
     Experience IN (
-        'AI MVP Development lead in Psyckitchen',  
+        'Research Assistant @ Unimelb', 'Lead Tutor @ Classbro'
+        'AI MVP Development lead @ Psyckitchen',  
         'Research Engineer at WEHI', 'Open Source Contributor in WEHI GMM Project', 
         'Digital Content Library Builder at HEX 📚', 'Data Analyst at CSIRO 🔬', 
         'Data Engineer & Scrum Master at CSL 🧬'
