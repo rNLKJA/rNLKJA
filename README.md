@@ -2,43 +2,48 @@
 
 ```sql
 # Welcome! I'm Rin Huang 🌟
-# 🎓 Holding Master of Data Science degree from Univeristy of Melbourne (also work here :D
-# 📊 Passionate about leveraging data to empower small & medium businesses, we know communication is the key
-# 🌐 Venturing into the world of full-stack web development & mastering project management 
-# ☕ Outside the tech realm, I'm a coffee connoisseur, badminton enthusiast, and gaming aficionado (and cats 🐱
-# 🏸 Finding balance in life through sports, laughter, and good company. That means I LOVE START UP Culture!!!
+# 🎓 Master of Data Science from University of Melbourne
+# 📊 Intelligence and Coordination Officer @CBS, transforming complex data into actionable insights
+# 🌐 Research Software Engineer focusing on mental health tech & data-driven solutions
+# ☕ Coffee enthusiast, badminton player, and advocate for data storytelling
+# 🤝 Passionate about bridging academia and industry through innovative solutions
 
 SELECT
-    'Rin Huang' AS Name, -- AKA Sunchuangyu Huang OR 黄孙创宇 in Chinese,
-    'Data Scientist 📊' AND 'Research Assitant' AND 'Tutor' AS Role, 
-    'Melbourne Coffee Aficionado ☕' AS Personal_Interest,  -- best coffee must in Melbourne
-    'Bachelor & Master in Data Science, University of Melbourne 🎓' AS Education,
-    'Work Proficiency in Chinese and English 🌐' AS Languages, 
-    'Adaptive MBTI & recent ENTJ, Consistently Judging (J) 🔄' AS Personality
+    'Rin Huang' AS Name, -- AKA Sunchuangyu Huang OR 黄孙创宇 in Chinese
+    'Intelligence and Coordination Officer @CBS' AND 'Research Assistant @Unimelb' AND 'Lead Tutor @Classbro' AS Current_Roles,
+    'Melbourne Coffee & Data Science Enthusiast ☕' AS Personal_Interest,
+    'Master & Bachelor in Data Science, University of Melbourne 🎓' AS Education,
+    'Data-Driven Problem Solver & Team Collaborator 🤝' AS Professional_Identity
+
 FROM
-    'Emerging Tech Enthusiasts 💡' AND 'Data Storyteller' AND 'Team Cohesion' -- consider myself as a generalist
+    'Data Science Professional 💡' AND 'Mental Health Tech Developer'
+
 WHERE
     Experience IN (
-        'Research Assistant @ Unimelb', 'Lead Tutor @ Classbro'
-        'AI MVP Development lead @ Psyckitchen',  
-        'Research Engineer at WEHI', 'Open Source Contributor in WEHI GMM Project', 
-        'Digital Content Library Builder at HEX 📚', 'Data Analyst at CSIRO 🔬', 
-        'Data Engineer & Scrum Master at CSL 🧬'
+        'Intelligence and Coordination Officer @ CBS',
+        'Research Assistant @ Moodist Unimelb',
+        'Lead Tutor @ Classbro',
+        'Cloud Engineer & AI Product Specialist @ Psyckitchen',
+        'Software Engineer Intern @ WEHI',
+        'Data Science Consultant @ CSIRO'
     ) AND
-    Professional_Skills IN (
-        'Python 🐍', 'JavaScript/TypeScript 🕸', 'HTML/CSS 🎨', 'React.js ⚛️', 'SQL 🗃️', 'MongoDB 🍃', 
-        'UI/UX Design 🖌️', 'Data Science 🧪', 'Machine Learning 🤖', 'Statistical Mathematics 🔢', 
-        'Full-Stack Web Development 💻', 'Digital Literacy 🌐', 'Cloud Technologies ☁️'
+    Technical_Skills IN (
+        'Python 🐍', 'JavaScript/TypeScript 🕸', 'React Native 📱', 'AWS Cloud ☁️',
+        'Statistical Analysis 📊', 'Machine Learning 🤖', 'Data Visualization 📈',
+        'Azure Cloud Services ⚡', 'MongoDB 🍃', 'SQL 🗃️',
+        'CI/CD Pipeline Management 🔄', 'Security Protocols 🔒'
+    ) AND
+    Core_Competencies IN (
+        'Continuous Improvement Skills', 'Data Storytelling 📚', 'Collaborative Problem Solving 🤝',
+        'Statistical Data Analysis 📊', 'Cross-functional Team Leadership 👥',
+        'Project Management ⚡', 'Research & Development 🔬'
+    ) AND
+    Achievements IN (
+        'Developed Moodist mental health application 🧠',
+        'Contributed to genomics research automation 🧬',
+        'Melbourne Plus: People Leadership Canvas Certification 🏆'
     )
-    AND Interpersonal_Skills IN (
-        'Communication 💬', 'Teamwork 🤝', 'Time Management ⏱️', 'Critical Thinking 🧠', 'Leadership 👥'
-    )
-    AND Certifications IN (
-        'Google Data Analytics 📊', 'Agile with Atlassian Jira 🏆', 
-        'Mental Health First Aid 🩺', 'Probability and Statistics for Business and Data Science 📉', 
-        'Data Visualisation 📈', 'Microsoft Azure 900'
-    )
-    AND SomethingElseYouMightWantToKnow? OR 'Send me a DM to know more :D'
+    AND Contact? OR 'Let''s connect for coffee and data discussions in Adelaide! ☕'
 ```
 
 
