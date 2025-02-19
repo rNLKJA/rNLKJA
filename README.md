@@ -1,7 +1,7 @@
 <img src='https://github.com/rNLKJA/rNLKJA/blob/main/images/Rin%20Huang.png' width=100% />
 
 ```sql
-# Welcome! I'm Rin Huang 🌟
+# Welcome! I'm Rin Huang 😼
 # 🎓 Master of Data Science from University of Melbourne
 # 📊 Intelligence and Coordination Officer @CBS, transforming complex data into actionable insights
 # 🌐 Research Software Engineer focusing on mental health tech & data-driven solutions
