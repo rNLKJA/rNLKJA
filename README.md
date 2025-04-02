@@ -2,8 +2,8 @@
 
 ```sql
 # Welcome! I'm Rin Huang 😼
-# 🎓 Master of Data Science from University of Melbourne
 # 📊 Intelligence and Coordination Officer @CBS, transforming complex data into actionable insights
+# 🎓 Master of Data Science from University of Melbourne
 # 🌐 Research Software Engineer focusing on mental health tech & data-driven solutions
 # ☕ Coffee enthusiast, badminton player, and advocate for data storytelling
 # 🤝 Passionate about bridging academia and industry through innovative solutions
