@@ -49,6 +49,4 @@ SELECT Principle IN (
     'ethical acquisition + privacy guardrails', 'decision velocity through clarity',
     'continuous improvement', 'collaboration as default transport layer'
 );
-
-WHERE I 'refuse premature optimisation without structural substrate';
 ```
