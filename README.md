@@ -1,11 +1,11 @@
 <img src="https://github.com/rNLKJA/rNLKJA/blob/main/images/Rin%20Huang.png" width="100%" alt="Rin Huang"/>
 
 ```
-██████╗ ██╗███╗  ██╗   R I N   H U A N G                                                        🐾 Pawsibility
-██╔══██╗██║████╗ ██║   Intelligence and Coordination Officer @ CBS & Ex Unimelb\WEHI\CSIRO\CSL
-██████╔╝██║██╔██╗██║       
-██╔══██╗██║██║╚████║   prototype → intelligence → enforcement 
-██══ ██╔██║██║ ╚███║     operate across data intelligence · research infrastructure · technical enablement
+R I N   H U A N G                                                                    🐾 P a w s i b i l i t y
+Intelligence and Coordination Officer @ CBS & Ex Unimelb \ WEHI \ CSIRO \ CSL
+
+prototype → intelligence → action → outcome
+                operate across data · intelligence · research infrastructure · technical enablement
 ```
 
 ```sql
@@ -31,3 +31,4 @@ SELECT my_strengths FROM people_skills WHERE I_excel_at = (
 -- Bottom line: Ready to solve problems with a smile! (=｀ω´=) ∩(︶▽︶)∩
 SELECT 'Let me help you turn your data into actionable insights!' AS my_mission; ✨
 ```
+![Uploading image.png…]()
