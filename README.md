@@ -31,4 +31,3 @@ SELECT my_strengths FROM people_skills WHERE I_excel_at = (
 -- Bottom line: Ready to solve problems with a smile! (=｀ω´=) ∩(︶▽︶)∩
 SELECT 'Let me help you turn your data into actionable insights!' AS my_mission; ✨
 ```
-![Uploading image.png…]()
