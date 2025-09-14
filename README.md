@@ -1,11 +1,11 @@
 <img src="https://github.com/rNLKJA/rNLKJA/blob/main/images/Rin%20Huang.png" width="100%" alt="Rin Huang"/>
 
 ```
-██████╗ ██╗███╗  ██╗   R I N   H U A N G                                                           🐾 Pawsibility
+██████╗ ██╗███╗  ██╗   R I N   H U A N G                                                        🐾 Pawsibility
 ██╔══██╗██║████╗ ██║   Intelligence and Coordination Officer @ CBS & Ex Unimelb\WEHI\CSIRO\CSL
 ██████╔╝██║██╔██╗██║       
 ██╔══██╗██║██║╚████║   prototype → intelligence → enforcement 
-██══ ██╔██║██║ ╚███║     operate across enforcement intelligence · research infrastructure · technical enablement
+██══ ██╔██║██║ ╚███║     operate across data intelligence · research infrastructure · technical enablement
 ```
 
 ```sql
