@@ -20,26 +20,6 @@ SELECT my_values FROM core_principles WHERE I_believe_in = (
   'Work well with others                   (teamwork makes dreams work)'
 );
 
-SELECT my_skills FROM technical_toolkit WHERE I_specialise_in = (
-  -- Data Science & Intelligence Backgrounds leads to  
-  'Data analysis and visualisation         (turning numbers into compelling stories)',
-  'Business intelligence and reporting     (making data speak to decision makers)',
-  'Statistical insights and interpretation (finding patterns that matter)',
-
-  -- Research Software Engineer Developer who Build
-  'Frontend development                    (making websites look good and work smooth)',
-  'Backend systems                         (the engine that powers everything)',
-  'Database management                     (keeping data safe and organised)',
-  'Cloud deployment                        (putting apps online for everyone)',
-
-  -- Continuous improvement in
-  'Working in complexity and ambiguity     (thriving when things get messy)',
-  'Critical thinking                       (asking the right questions)',
-  'Learnability and adaptability           (evolving with changing needs)',
-  'Collaboration by default                (teamwork as first instinct)'
-
-) AND learning_attitude = 'always_humble' AND growth_mindset = 'never_stop';
-
 SELECT my_strengths FROM people_skills WHERE I_excel_at = (
   'Explaining tech stuff to executives     (translating geek-speak to human-speak)',
   'Organising messy situations             (bringing order to chaos)',
