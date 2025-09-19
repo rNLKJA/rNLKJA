@@ -28,8 +28,8 @@
 │   'Building trust through delivery                        (doing what I say I'll do)',                    │
 │   'Teaching and mentoring others                          (sharing knowledge with patience)'              │
 │ );                                                                                                        │
-│                                                                                                       ╱|、              
-│ -- Ready to solve problems with a smile!                                                             (`  -7              
-│ SELECT 'Let us turn your data into actionable insights!' AS our_mission;✨                            じ しˍ,)ノ          
-└───────────────────────────────────────────────────────────────────────────────────────────────────────────────
+│                                                                                                   ╱|、              
+│ -- Ready to solve problems with a smile!                                                         (`  -7              
+│ SELECT 'Let us turn your data into actionable insights!' AS our_mission;✨                        じ しˍ,)ノ          
+└───────────────────────────────────────────────────────────────────────────────────────────────────────────
 ```
