@@ -1,16 +1,16 @@
 <img src="https://github.com/rNLKJA/rNLKJA/blob/main/images/Rin%20Huang.png" width="100%" alt="Rin Huang"/>
 
 ```
-┌─ R I N   H U A N G ───────────────────────────────────────────────────────────── 🐾 P a w s i b i l i t y ─┐
+┌─ 🌸 R I N   H U A N G ─────────────────────────────────────────────────────────── 🐾 P a w s i b i l i t y ─┐
 │ Intelligence and Coordination Officer @ CBS & Ex Unimelb \ WEHI \ CSIRO \ CSL                              │
 |                                                                                                            |
-│ Generalist → prototype → intelligence → enforcement                                                        │
+│ generalist → prototype → intelligence → enforcement                                                        │
 │ operate across data · intelligence · research infrastructure · technical enablement                        │    
 └────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ```sql
-🐱 "Brevity is the soul of wit, and SQL the language of clarity!" ──────────────────────────────────────────┐
+"Brevity is the soul of wit, and SQL the language of clarity!" ─────────────────────────────────────────────┐
 │                                                                                                           │
 │ SELECT my_values FROM core_principles WHERE I_believe_in = (                                              │
 │   'Show proof before making claims                         (like a cat watching before pouncing)',        │
@@ -28,8 +28,8 @@
 │   'Building trust through delivery                        (doing what I say I'll do)',                    │
 │   'Teaching and mentoring others                          (sharing knowledge with patience)'              │
 │ );                                                                                                        │
-│                                                                                                           │
-│ -- Ready to solve problems with a smile!                                                                  │
-│ SELECT 'Let us turn your data into actionable insights!' AS our_mission; ✨                               │
+│                                                                                         ╱|、               |
+│ -- Ready to solve problems with a smile!                                               (`  -7             | 
+│ SELECT 'Let us turn your data into actionable insights!' AS our_mission;✨              じ しˍ,)ノ          | 
 └──────────────────────────────────────────────────────────────────────────────────────────────────────────🐾
 ```
