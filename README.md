@@ -1,10 +1,10 @@
 <img src="https://github.com/rNLKJA/rNLKJA/blob/main/images/Rin%20Huang.png" width="100%" alt="Rin Huang"/>
 
 ```
-┌─ 🌸 R I N   H U A N G ─────────────────────────────────────────────────────────── 🐾 P a w s i b i l i t y ─┐
-│ Intelligence and Coordination Officer @ CBS & Ex Unimelb \ WEHI \ CSIRO \ CSL                              │
+┌─ 🌸 R I N   H U A N G ────────────────────────────────────────────────────────── 🐾 P a w s i b i l i t y ─┐
+│ Senior Data Analyst @ SAPOL & Ex AGD \ Unimelb \ WEHI \ CSIRO \ CSL                                        │
 |                                                                                                            |
-│ generalist → prototype → intelligence → enforcement                                                        │
+│ generalist → prototype → intelligence → strategic decisions                                                │
 │ operate across data · intelligence · research infrastructure · technical enablement                        │    
 └────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
