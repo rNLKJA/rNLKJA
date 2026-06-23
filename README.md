@@ -34,6 +34,12 @@
 └───────────────────────────────────────────────────────────────────────────────────────────────────────────
 ```
 
+<div align="center">
+
+🔗 **[rin.contact](https://rin.contact)** — portfolio · CV · everything I build
+
+</div>
+
 <details>
 <summary><b>About this repository</b></summary>
 
@@ -41,9 +47,9 @@
 
 This is my **GitHub profile repository** — a special repo (named identically to my
 username, `rNLKJA/rNLKJA`) whose `README.md` GitHub renders at the top of my
-[profile page](https://github.com/rNLKJA). It exists purely to present who I am: a
-hand-drawn ASCII "name card" and an SQL-flavoured statement of my core principles and
-people skills.
+[profile page](https://github.com/rNLKJA). Think of it as the front door to who I am:
+a hand-drawn name card, and my core principles and people skills written in the one
+dialect I fully trust — SQL.
 
 **What's in here**
 
