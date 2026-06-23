@@ -33,26 +33,3 @@
 │ SELECT 'Let us turn your data into actionable insights!' AS our_mission;✨                        じ しˍ,)ノ          
 └───────────────────────────────────────────────────────────────────────────────────────────────────────────
 ```
-
-<details>
-<summary><b>About this repository</b></summary>
-
-<br>
-
-This is my **GitHub profile repository** — a special repo (named identically to my
-username, `rNLKJA/rNLKJA`) whose `README.md` GitHub renders at the top of my
-[profile page](https://github.com/rNLKJA). It exists purely to present who I am: a
-hand-drawn ASCII "name card" and an SQL-flavoured statement of my core principles and
-people skills.
-
-**What's in here**
-
-| Path | Purpose |
-|---|---|
-| `README.md` | The profile card shown on my GitHub profile page. |
-| `images/Rin Huang.png` | Banner image at the top of the card. |
-| `.github/workflows/generator.yml` | Scheduled GitHub Action that regenerates the [snake contribution animation](https://github.com/Platane/snk) every 12 hours and publishes it to the `output` branch. |
-
-**Find me elsewhere:** [rin.contact](https://rin.contact) · personal portfolio and canonical reference.
-
-</details>
